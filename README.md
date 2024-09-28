@@ -18,3 +18,4 @@ This is a simple tcp server and tcp client ; Here multiple clients can chat with
 
 [|] many clients can connect its multi-client system and chat to each other
 [|] remember you need to put the same ip and port as the server.py in tcpclient.py
+o
